@@ -1,0 +1,5 @@
+fastqdir=/home/user/data
+threads=26
+samplelist=/home/user/samples.txt
+primers_5p=GTGYCAGCMGCCGCGGTAA
+primers_3p=GGACTACNVGGGTWTCTAAT

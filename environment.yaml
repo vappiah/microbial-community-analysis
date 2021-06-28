@@ -1,0 +1,16 @@
+name: MCA
+channels:
+  - conda-forge
+  - bioconda
+  - r
+  - defaults
+dependencies:
+  - htstream
+  - multiqc
+  - pip
+  - pip:
+      - numpy
+      - matplotlib
+      - matplotlib-venn
+      - biopython
+      - dREP
