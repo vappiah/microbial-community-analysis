@@ -6,7 +6,8 @@ conda config --add channels conda-forge
 ```
 
 ### clone github repository
-```github clone https://github.com/vappiah/microbial-community-analysis
+```
+github clone https://github.com/vappiah/microbial-community-analysis
 cd microbial-community-analysis
 ```
 
