@@ -12,19 +12,23 @@ cd microbial-community-analysis
 ```
 
 ### create environment and install tools
-```conda create -f environment.yaml
+```
+conda create -f environment.yaml
 ```
 
 
 #### activate environment 
-```conda activate MCA
+```
+conda activate MCA
 ```
 
 ### edit the config.txt file and put in all necessary information
 ### run the htstream script with config.txt as argument
-```chmod +x htstream.sh
+```
+chmod +x htstream.sh
 ./htstream.sh config.txt
 ```
 ### check the directory 'outdir' for the results
-```ls outdir
+```
+ls outdir
 ```
