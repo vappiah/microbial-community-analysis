@@ -18,10 +18,9 @@ conda create -f environment.yaml
 
 
 #### activate environment 
-```
-conda activate MCA
-```
-
+```conda activate MCA``` 
+         or
+ ``` source activate MCA```
 ### edit the config.txt file and put in all necessary information
 ### run the htstream script with config.txt as argument
 ```
