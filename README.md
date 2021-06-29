@@ -1,8 +1,8 @@
 # microbial-community-analysis
 
 ### add conda channels
-```conda config --add channels bioconda
-conda config --add channels conda-forge```
+```conda config --add channels bioconda```
+```conda config --add channels conda-forge```
 
 ### clone github repository
 ```
