@@ -12,7 +12,7 @@ cd microbial-community-analysis
 
 ### create environment and install tools
 ```
-conda create -f environment.yaml
+conda create -n MCA htstream multiqc
 ```
 
 
